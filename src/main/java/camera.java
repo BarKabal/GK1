@@ -2,7 +2,6 @@ import org.ejml.simple.SimpleMatrix;
 
 import java.awt.geom.Line2D;
 import java.awt.geom.Point2D;
-import java.util.ArrayList;
 
 public class camera {
     final static double basicMove = 10;
